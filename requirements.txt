@@ -1,0 +1,5 @@
+pandas
+numpy
+streamlit-drawable-canvas==0.8.0
+pydeck
+plotly
